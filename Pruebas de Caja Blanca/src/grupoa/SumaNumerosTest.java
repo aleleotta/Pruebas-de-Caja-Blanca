@@ -38,3 +38,9 @@ class SumaNumerosTest {
 		assertEquals(0, res);
 	}
 }
+
+/*
+ *V(G)=Regions
+ *A-N+2 A=Arrows N=Nodes
+ *V(G)=NP+1 NP=PredicatedNodes
+ */
